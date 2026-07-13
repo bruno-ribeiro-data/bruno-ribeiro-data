@@ -35,6 +35,6 @@ Welcome to my GitHub! I am a Data Analyst focused on building clean code, proces
 ---
 
 ### 📬 Connect with me:
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/O_TEU_LINKEDIN_AQUI](https://www.linkedin.com/in/bruno-ribeiro-data/))
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-ribeiro-data/)
 
 *Let's build something data-driven together!*
