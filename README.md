@@ -1,7 +1,7 @@
 # Hi, I'm Bruno Ribeiro! 👋
 **Data Analyst**
 
-Welcome to my GitHub! I am an analyst focused on building clean code, processing data, and turning raw datasets into actionable insights. I use this space to document my learning process and host my public portfolio.
+Welcome to my GitHub! I am a Data Analyst focused on building clean code, processing datasets, and turning raw data into actionable insights. I use this space to host my public portfolio and document my projects.
 
 ---
 
@@ -26,20 +26,11 @@ Welcome to my GitHub! I am an analyst focused on building clean code, processing
       <br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" style="display:none;"/> <!-- Espaçador visual -->
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="icon" width="40" height="40" />
       <br>VS Code
     </td>
   </tr>
 </table>
-
----
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-ribeiro-data&layout=compact&theme=radical&hide_border=true" alt="Bruno's Top Languages" />
-</p>
 
 ---
 
